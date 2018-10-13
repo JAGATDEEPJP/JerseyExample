@@ -1,5 +1,10 @@
 # JerseyExample
 
+In this example, I have used, 
+1. Eclipse Oxygen IDE
+2. Inbuilt Maven Plugin provided by Eclipse.
+3. Tomcat 8.5 server 
+
 Step1: Fork the repository by clicking on fork.
 Step2: Go to your repository and click on download button, and copy the URL.
 
